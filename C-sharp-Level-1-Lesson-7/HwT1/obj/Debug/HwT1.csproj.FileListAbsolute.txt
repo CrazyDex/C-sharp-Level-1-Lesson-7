@@ -1,0 +1,10 @@
+c:\users\denis\source\repos\C-sharp-Level-1-Lesson-7\HwT1\bin\Debug\HwT1.exe.config
+c:\users\denis\source\repos\C-sharp-Level-1-Lesson-7\HwT1\bin\Debug\HwT1.exe
+c:\users\denis\source\repos\C-sharp-Level-1-Lesson-7\HwT1\bin\Debug\HwT1.pdb
+c:\users\denis\source\repos\C-sharp-Level-1-Lesson-7\HwT1\obj\Debug\HwT1.Properties.Resources.resources
+c:\users\denis\source\repos\C-sharp-Level-1-Lesson-7\HwT1\obj\Debug\HwT1.csproj.GenerateResource.Cache
+c:\users\denis\source\repos\C-sharp-Level-1-Lesson-7\HwT1\obj\Debug\HwT1.csproj.CoreCompileInputs.cache
+c:\users\denis\source\repos\C-sharp-Level-1-Lesson-7\HwT1\obj\Debug\HwT1.exe
+c:\users\denis\source\repos\C-sharp-Level-1-Lesson-7\HwT1\obj\Debug\HwT1.pdb
+c:\users\denis\source\repos\C-sharp-Level-1-Lesson-7\HwT1\obj\Debug\HwT1.csprojResolveAssemblyReference.cache
+c:\users\denis\source\repos\C-sharp-Level-1-Lesson-7\HwT1\obj\Debug\HwT1.FGame.resources
